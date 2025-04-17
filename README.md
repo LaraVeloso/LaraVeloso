@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Lara!<br><br>Here I store my evolution in creative code and graphical skills, as well as a bit of AR implementation with low code. 
+Hi, I'm Lara!<br><br>Here I store my evolution in creative code and graphical skills. 
 
 
 ## 🌐 Socials:
